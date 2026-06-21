@@ -1,0 +1,26 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Raul Rausell - governed agentic systems</title>
+  <desc id="desc">HARNEXA branded profile banner with charcoal, ivory, and copper governance motif.</desc>
+  <rect width="1280" height="360" fill="#EEEADF"/>
+  <rect x="0" y="0" width="382" height="360" fill="#15130F"/>
+  <path d="M376 0C428 66 454 126 454 180C454 234 428 294 376 360H338C384 295 407 235 407 180C407 125 384 65 338 0H376Z" fill="#EEEADF"/>
+  <path d="M926 54C1042 54 1129 105 1129 180C1129 255 1042 306 926 306C810 306 723 255 723 180C723 105 810 54 926 54Z" stroke="#C47742" stroke-width="2"/>
+  <path d="M926 86C1015 86 1082 124 1082 180C1082 236 1015 274 926 274C837 274 770 236 770 180C770 124 837 86 926 86Z" stroke="#D8CDBB" stroke-width="1"/>
+  <path d="M1004 180H1158" stroke="#C47742" stroke-width="2"/>
+  <path d="M1099 166L1158 180L1099 194" stroke="#C47742" stroke-width="2"/>
+  <rect x="61" y="61" width="86" height="86" stroke="#C47742" stroke-width="2"/>
+  <path d="M84 126V82H96V99H112V82H124V126H112V109H96V126H84Z" fill="#EEEADF"/>
+  <text x="60" y="201" fill="#EEEADF" font-family="Georgia, 'Times New Roman', serif" font-size="40" font-weight="700">Raul Rausell</text>
+  <text x="60" y="240" fill="#C47742" font-family="Arial, sans-serif" font-size="17" letter-spacing="2.2">AGENTIC AI ENGINEERING</text>
+  <text x="60" y="272" fill="#CFC6B6" font-family="Arial, sans-serif" font-size="20">Governed agents for commerce operations</text>
+  <text x="514" y="111" fill="#1F1B15" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700">Harness before autonomy.</text>
+  <text x="516" y="156" fill="#5F564B" font-family="Arial, sans-serif" font-size="22">Identity · audit · approval gates · evaluation · revocation</text>
+  <g font-family="Arial, sans-serif" font-size="18">
+    <rect x="516" y="212" width="132" height="44" fill="#15130F"/>
+    <text x="541" y="240" fill="#EEEADF">PHANTOM</text>
+    <rect x="662" y="212" width="150" height="44" fill="none" stroke="#C47742"/>
+    <text x="686" y="240" fill="#1F1B15">AgentOps</text>
+    <rect x="826" y="212" width="170" height="44" fill="none" stroke="#D3C6B3"/>
+    <text x="851" y="240" fill="#1F1B15">CONECTA</text>
+  </g>
+</svg>
