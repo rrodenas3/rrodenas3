@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Raul Rausell - AI-native transformation for agentic commerce" />
+  <img width="100%" src="./assets/profile-banner-v2.svg" alt="Raul Rausell - AI-native transformation for agentic commerce" />
 </p>
 
 **AI-native transformation leader building governed systems for agentic commerce.**

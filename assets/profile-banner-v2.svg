@@ -1,0 +1,38 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Raul Rausell - AI-native transformation for agentic commerce</title>
+  <desc id="desc">HARNEXA-style banner for AI-native transformation, agentic commerce, and governed AI-agent systems.</desc>
+
+  <rect width="1200" height="300" fill="#EEEADF"/>
+  <rect x="0" y="0" width="1200" height="300" fill="#EEEADF"/>
+  <rect x="0" y="0" width="330" height="300" fill="#15130F"/>
+  <rect x="44" y="46" width="66" height="66" stroke="#C47742" stroke-width="2"/>
+  <path d="M62 94V64H72V76H85V64H95V94H85V84H72V94H62Z" fill="#EEEADF"/>
+
+  <text x="44" y="158" fill="#EEEADF" font-family="Georgia, 'Times New Roman', serif" font-size="38" font-weight="700">Raul Rausell</text>
+  <text x="46" y="196" fill="#C47742" font-family="Arial, sans-serif" font-size="14" letter-spacing="1.9">AI-NATIVE TRANSFORMATION</text>
+  <text x="46" y="224" fill="#EEEADF" font-family="Arial, sans-serif" font-size="17">Agentic engineer · AI engineer</text>
+  <text x="46" y="249" fill="#CFC6B6" font-family="Arial, sans-serif" font-size="16">E-commerce · FT1000 founder</text>
+
+  <line x1="376" y1="56" x2="376" y2="244" stroke="#C47742" stroke-width="1.5"/>
+  <text x="414" y="92" fill="#15130F" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700">AI-native transformation</text>
+  <text x="414" y="140" fill="#15130F" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">for agentic commerce.</text>
+  <text x="416" y="181" fill="#5F554B" font-family="Arial, sans-serif" font-size="20">Governed AI-agent systems for commerce operations.</text>
+
+  <g transform="translate(416 218)" font-family="Arial, sans-serif" font-size="15" font-weight="700">
+    <rect x="0" y="0" width="122" height="38" fill="#15130F"/>
+    <text x="25" y="25" fill="#EEEADF">HARNEXA</text>
+    <rect x="140" y="0" width="122" height="38" fill="none" stroke="#C47742"/>
+    <text x="174" y="25" fill="#15130F">PHANTOM</text>
+    <rect x="280" y="0" width="122" height="38" fill="none" stroke="#D1C4B2"/>
+    <text x="314" y="25" fill="#15130F">AgentOps</text>
+  </g>
+
+  <g opacity="0.92">
+    <path d="M960 58C1048 58 1112 95 1112 150C1112 205 1048 242 960 242C872 242 808 205 808 150C808 95 872 58 960 58Z" stroke="#C47742" stroke-width="2"/>
+    <path d="M1005 150H1148" stroke="#C47742" stroke-width="2"/>
+    <path d="M1110 137L1148 150L1110 163" stroke="#C47742" stroke-width="2"/>
+    <circle cx="960" cy="150" r="8" fill="#C47742"/>
+  </g>
+
+  <text x="808" y="278" fill="#8B5A38" font-family="Arial, sans-serif" font-size="13" letter-spacing="1.8">CATALOG · INVENTORY · ORDERS · GOVERNANCE</text>
+</svg>
