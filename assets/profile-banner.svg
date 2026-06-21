@@ -1,6 +1,6 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Raul Rausell - commerce operator and agentic systems engineer</title>
-  <desc id="desc">Charcoal, ivory, and copper profile banner for governed agentic systems.</desc>
+  <title id="title">Raul Rausell - commerce founder building governed AI-agent systems</title>
+  <desc id="desc">Charcoal, ivory, and copper profile banner for governed AI-agent systems.</desc>
 
   <rect width="1280" height="320" fill="#EEEADF"/>
   <rect x="0" y="0" width="448" height="320" fill="#15130F"/>
@@ -10,10 +10,10 @@
   <path d="M83 113V80H94V93H108V80H119V113H108V101H94V113H83Z" fill="#EEEADF"/>
 
   <text x="64" y="180" fill="#EEEADF" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Raul Rausell</text>
-  <text x="66" y="221" fill="#C47742" font-family="Arial, sans-serif" font-size="17" letter-spacing="2.4">COMMERCE OPERATOR</text>
-  <text x="66" y="252" fill="#CFC6B6" font-family="Arial, sans-serif" font-size="20">Agentic systems engineer · Barcelona</text>
+  <text x="66" y="221" fill="#C47742" font-family="Arial, sans-serif" font-size="17" letter-spacing="2.4">COMMERCE FOUNDER</text>
+  <text x="66" y="252" fill="#CFC6B6" font-family="Arial, sans-serif" font-size="20">Building governed AI-agent systems</text>
 
-  <text x="550" y="98" fill="#1F1B15" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Governed AI agents.</text>
+  <text x="550" y="98" fill="#1F1B15" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Agents that can be trusted.</text>
   <text x="552" y="143" fill="#5E5348" font-family="Arial, sans-serif" font-size="23">Identity · audit · approval gates · evaluation · revocation</text>
 
   <g transform="translate(552 197)" font-family="Arial, sans-serif" font-size="17" font-weight="700">
