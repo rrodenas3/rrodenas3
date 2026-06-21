@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Raul Rausell - governed AI-agent systems" />
+  <img src="./assets/profile-banner.svg" alt="Raul Rausell - AI-native transformation for agentic commerce" />
 </p>
 
-I am a **commerce founder building governed AI-agent systems**.
+I am an **AI-native transformation leader** building governed systems for **agentic commerce**.
 
-For 10 years I built and ran a FT1000-recognised digital commerce venture: marketplace integrations, checkout/payment flows, inventory logic, analytics, forecasting, recommendations, and AI-enabled support. Now I use that operating background to build agents that can safely touch real workflows.
+My background combines **agentic engineering, AI engineering, and e-commerce operating depth**. For 10 years I built and ran a FT1000-recognised digital commerce venture: marketplaces, checkout/payment flows, inventory logic, analytics, forecasting, recommendations, and AI-enabled support. Now I use that operating background to build commerce agents that can safely touch real workflows.
 
 <p align="center">
   <a href="https://harnexa.ai"><strong>HARNEXA AI</strong></a>
@@ -27,20 +27,21 @@ For 10 years I built and ran a FT1000-recognised digital commerce venture: marke
 
 | Phrase | What I mean |
 |---|---|
-| **Commerce founder** | I have operated the business side and built the technical systems: catalogues, orders, payments, marketplaces, inventory, analytics, customer experience |
-| **Governed AI-agent builder** | I design agents with identities, permissions, audit trails, approval gates, evaluation loops, cost boundaries, and revocation paths |
-| **Agentic systems** | Multi-step AI workflows that use tools, memory, policies, and human checkpoints to complete operational work |
+| **AI-native transformation leader** | I redesign workflows, operating models, and technical systems around AI agents rather than adding AI as a surface feature |
+| **Agentic commerce specialist** | I focus on the shift from human-click e-commerce to AI-agent-mediated discovery, decisioning, ordering, and operations |
+| **Agentic engineer / AI engineer** | I build multi-step agent workflows with tools, memory, policies, evals, and human checkpoints |
+| **Governance-first builder** | Every serious agent needs identity, permissions, audit trails, approval gates, cost boundaries, and revocation |
 
 ## Current Flagship
 
 **HARNEXA / PHANTOM VSA**<br>
-Governed AI-agent deployment for European commerce operators.
+Governed agentic-commerce deployment for European e-commerce, retail, and CPG operators.
 
 ```text
-commerce context -> agent reasoning -> audit event -> CLEAR check -> human approval
+catalog / account data -> agent reasoning -> audit event -> CLEAR check -> human approval
 ```
 
-PHANTOM turns account context, SKU velocity, stock signals, and promo compliance into a suggested action, then stops at the approval boundary before financial execution.
+PHANTOM turns account context, SKU velocity, stock signals, and promo compliance into suggested commercial action, then stops at the approval boundary before financial execution.
 
 ## Build Signature
 

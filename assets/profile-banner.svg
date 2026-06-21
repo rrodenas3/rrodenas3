@@ -1,33 +1,36 @@
-<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Raul Rausell - commerce founder building governed AI-agent systems</title>
-  <desc id="desc">Charcoal, ivory, and copper profile banner for governed AI-agent systems.</desc>
+<svg width="1280" height="340" viewBox="0 0 1280 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Raul Rausell - AI-native transformation for agentic commerce</title>
+  <desc id="desc">HARNEXA-style banner: AI-native transformation, agentic commerce, governed AI systems.</desc>
 
-  <rect width="1280" height="320" fill="#EEEADF"/>
-  <rect x="0" y="0" width="448" height="320" fill="#15130F"/>
-  <path d="M426 0C461 50 480 104 480 160C480 216 461 270 426 320H382C412 268 428 214 428 160C428 106 412 52 382 0H426Z" fill="#EEEADF"/>
+  <rect width="1280" height="340" fill="#EEEADF"/>
+  <rect width="456" height="340" fill="#15130F"/>
+  <path d="M432 0C468 54 486 111 486 170C486 229 468 286 432 340H386C417 284 432 227 432 170C432 113 417 56 386 0H432Z" fill="#EEEADF"/>
 
-  <rect x="64" y="58" width="72" height="72" stroke="#C47742" stroke-width="2"/>
-  <path d="M83 113V80H94V93H108V80H119V113H108V101H94V113H83Z" fill="#EEEADF"/>
+  <rect x="62" y="58" width="74" height="74" stroke="#C47742" stroke-width="2"/>
+  <path d="M82 114V80H93V93H108V80H119V114H108V101H93V114H82Z" fill="#EEEADF"/>
 
-  <text x="64" y="180" fill="#EEEADF" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Raul Rausell</text>
-  <text x="66" y="221" fill="#C47742" font-family="Arial, sans-serif" font-size="17" letter-spacing="2.4">COMMERCE FOUNDER</text>
-  <text x="66" y="252" fill="#CFC6B6" font-family="Arial, sans-serif" font-size="20">Building governed AI-agent systems</text>
+  <text x="62" y="181" fill="#EEEADF" font-family="Georgia, 'Times New Roman', serif" font-size="45" font-weight="700">Raul Rausell</text>
+  <text x="64" y="224" fill="#C47742" font-family="Arial, sans-serif" font-size="16" letter-spacing="2.1">AI-NATIVE TRANSFORMATION LEADER</text>
+  <text x="64" y="254" fill="#EEEADF" font-family="Arial, sans-serif" font-size="19">Agentic engineer · AI engineer</text>
+  <text x="64" y="282" fill="#CFC6B6" font-family="Arial, sans-serif" font-size="18">E-commerce specialist · FT1000 founder</text>
 
-  <text x="550" y="98" fill="#1F1B15" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Agents that can be trusted.</text>
-  <text x="552" y="143" fill="#5E5348" font-family="Arial, sans-serif" font-size="23">Identity · audit · approval gates · evaluation · revocation</text>
+  <text x="548" y="100" fill="#1F1B15" font-family="Georgia, 'Times New Roman', serif" font-size="59" font-weight="700">Agentic commerce, governed.</text>
+  <text x="551" y="145" fill="#5F554B" font-family="Arial, sans-serif" font-size="22">Commerce infrastructure for AI agents</text>
+  <text x="551" y="176" fill="#8B5A38" font-family="Arial, sans-serif" font-size="18" letter-spacing="1.2">DATA · APIs · IDENTITY · AUDIT · APPROVAL</text>
 
-  <g transform="translate(552 197)" font-family="Arial, sans-serif" font-size="17" font-weight="700">
-    <rect x="0" y="0" width="160" height="46" fill="#15130F"/>
-    <text x="33" y="30" fill="#EEEADF">HARNEXA</text>
-    <rect x="178" y="0" width="154" height="46" fill="none" stroke="#C47742"/>
+  <g transform="translate(552 214)" font-family="Arial, sans-serif" font-size="17" font-weight="700">
+    <rect x="0" y="0" width="158" height="46" fill="#15130F"/>
+    <text x="32" y="30" fill="#EEEADF">HARNEXA</text>
+    <rect x="177" y="0" width="154" height="46" fill="none" stroke="#C47742"/>
     <text x="218" y="30" fill="#1F1B15">PHANTOM</text>
     <rect x="350" y="0" width="154" height="46" fill="none" stroke="#D1C4B2"/>
-    <text x="392" y="30" fill="#1F1B15">AgentOps</text>
+    <text x="391" y="30" fill="#1F1B15">AgentOps</text>
   </g>
 
-  <path d="M932 44C1042 44 1124 91 1124 160C1124 229 1042 276 932 276C822 276 740 229 740 160C740 91 822 44 932 44Z" stroke="#C47742" stroke-width="2" opacity="0.75"/>
-  <path d="M1015 160H1198" stroke="#C47742" stroke-width="2"/>
-  <path d="M1146 145L1198 160L1146 175" stroke="#C47742" stroke-width="2"/>
-  <path d="M820 160H884" stroke="#D1C4B2" stroke-width="1"/>
-  <circle cx="932" cy="160" r="9" fill="#C47742"/>
+  <path d="M924 46C1039 46 1127 96 1127 170C1127 244 1039 294 924 294C809 294 721 244 721 170C721 96 809 46 924 46Z" stroke="#C47742" stroke-width="2" opacity="0.72"/>
+  <path d="M812 170H885" stroke="#D1C4B2" stroke-width="1.5"/>
+  <circle cx="924" cy="170" r="9" fill="#C47742"/>
+  <path d="M1008 170H1202" stroke="#C47742" stroke-width="2"/>
+  <path d="M1148 154L1202 170L1148 186" stroke="#C47742" stroke-width="2"/>
+  <text x="810" y="324" fill="#8B5A38" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">CATALOG · INVENTORY · ORDERS · GOVERNANCE</text>
 </svg>
