@@ -1,25 +1,33 @@
 <svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Raul Rausell - governed agentic systems</title>
-  <desc id="desc">Editorial HARNEXA-style banner for governed agentic systems.</desc>
+  <title id="title">Raul Rausell - commerce operator and agentic systems engineer</title>
+  <desc id="desc">Charcoal, ivory, and copper profile banner for governed agentic systems.</desc>
+
   <rect width="1280" height="320" fill="#EEEADF"/>
-  <rect width="430" height="320" fill="#15130F"/>
-  <path d="M417 0C457 53 477 107 477 160C477 213 457 267 417 320H373C407 265 424 212 424 160C424 108 407 55 373 0H417Z" fill="#EEEADF"/>
-  <rect x="68" y="62" width="74" height="74" stroke="#C47742" stroke-width="2"/>
-  <path d="M88 116V82H98V95H112V82H122V116H112V103H98V116H88Z" fill="#EEEADF"/>
-  <text x="68" y="185" fill="#EEEADF" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Raul Rausell</text>
-  <text x="70" y="225" fill="#C47742" font-family="Arial, sans-serif" font-size="18" letter-spacing="2.2">COMMERCE OPERATOR + AGENTIC ENGINEER</text>
-  <text x="70" y="260" fill="#CFC6B6" font-family="Arial, sans-serif" font-size="22">Barcelona · HARNEXA AI</text>
-  <text x="548" y="107" fill="#1F1B15" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="700">Governed agentic systems.</text>
-  <text x="550" y="156" fill="#5F564B" font-family="Arial, sans-serif" font-size="25">Identity · audit · approval · evaluation · revocation</text>
-  <g transform="translate(550 210)">
-    <rect width="155" height="46" fill="#15130F"/>
-    <text x="30" y="30" fill="#EEEADF" font-family="Arial, sans-serif" font-size="18" font-weight="700">PHANTOM</text>
-    <rect x="172" width="164" height="46" fill="none" stroke="#C47742"/>
-    <text x="210" y="30" fill="#1F1B15" font-family="Arial, sans-serif" font-size="18" font-weight="700">AgentOps</text>
-    <rect x="354" width="166" height="46" fill="none" stroke="#D4C8B6"/>
-    <text x="397" y="30" fill="#1F1B15" font-family="Arial, sans-serif" font-size="18" font-weight="700">CONECTA</text>
+  <rect x="0" y="0" width="448" height="320" fill="#15130F"/>
+  <path d="M426 0C461 50 480 104 480 160C480 216 461 270 426 320H382C412 268 428 214 428 160C428 106 412 52 382 0H426Z" fill="#EEEADF"/>
+
+  <rect x="64" y="58" width="72" height="72" stroke="#C47742" stroke-width="2"/>
+  <path d="M83 113V80H94V93H108V80H119V113H108V101H94V113H83Z" fill="#EEEADF"/>
+
+  <text x="64" y="180" fill="#EEEADF" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">Raul Rausell</text>
+  <text x="66" y="221" fill="#C47742" font-family="Arial, sans-serif" font-size="17" letter-spacing="2.4">COMMERCE OPERATOR</text>
+  <text x="66" y="252" fill="#CFC6B6" font-family="Arial, sans-serif" font-size="20">Agentic systems engineer · Barcelona</text>
+
+  <text x="550" y="98" fill="#1F1B15" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Governed AI agents.</text>
+  <text x="552" y="143" fill="#5E5348" font-family="Arial, sans-serif" font-size="23">Identity · audit · approval gates · evaluation · revocation</text>
+
+  <g transform="translate(552 197)" font-family="Arial, sans-serif" font-size="17" font-weight="700">
+    <rect x="0" y="0" width="160" height="46" fill="#15130F"/>
+    <text x="33" y="30" fill="#EEEADF">HARNEXA</text>
+    <rect x="178" y="0" width="154" height="46" fill="none" stroke="#C47742"/>
+    <text x="218" y="30" fill="#1F1B15">PHANTOM</text>
+    <rect x="350" y="0" width="154" height="46" fill="none" stroke="#D1C4B2"/>
+    <text x="392" y="30" fill="#1F1B15">AgentOps</text>
   </g>
-  <path d="M958 44C1069 44 1152 91 1152 160C1152 229 1069 276 958 276C847 276 764 229 764 160C764 91 847 44 958 44Z" stroke="#C47742" stroke-width="2" opacity="0.9"/>
-  <path d="M1042 160H1206" stroke="#C47742" stroke-width="2"/>
-  <path d="M1153 145L1206 160L1153 175" stroke="#C47742" stroke-width="2"/>
+
+  <path d="M932 44C1042 44 1124 91 1124 160C1124 229 1042 276 932 276C822 276 740 229 740 160C740 91 822 44 932 44Z" stroke="#C47742" stroke-width="2" opacity="0.75"/>
+  <path d="M1015 160H1198" stroke="#C47742" stroke-width="2"/>
+  <path d="M1146 145L1198 160L1146 175" stroke="#C47742" stroke-width="2"/>
+  <path d="M820 160H884" stroke="#D1C4B2" stroke-width="1"/>
+  <circle cx="932" cy="160" r="9" fill="#C47742"/>
 </svg>
