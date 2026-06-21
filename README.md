@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="100%" src="./assets/profile-banner-v2.svg" alt="Raul Rausell - AI-native transformation for agentic commerce" />
+  <img width="100%" src="./assets/profile-banner-v3.svg" alt="Raul Rausell - AI-native transformation for agentic commerce" />
 </p>
 
-**AI-native transformation leader building governed systems for agentic commerce.**
+**AI-native transformation leader building governed agentic-commerce systems.**
 
-I connect three backgrounds that rarely meet in one builder: **agentic engineering**, **AI engineering**, and **10 years operating a FT1000-recognised e-commerce company**. That means I do not treat agentic commerce as a chatbot trend; I treat it as a new operating layer for catalogues, inventory, payments, approvals, audit, and decision ownership.
+I combine **agentic engineering**, **AI engineering**, and **10 years operating a FT1000-recognised e-commerce company**. My work focuses on the operating layer commerce teams now need: catalogues, inventory, orders, approvals, audit trails, agent identity, and human-owned execution.
 
 <p align="center">
   <a href="https://harnexa.ai"><strong>HARNEXA AI</strong></a>
@@ -14,25 +14,16 @@ I connect three backgrounds that rarely meet in one builder: **agentic engineeri
   Barcelona
 </p>
 
-## Project Index
+## Selected Systems
 
 | System | What it proves |
 |---|---|
-| **[dark-factory-os](https://github.com/rrodenas3/dark-factory-os)** | Governed agentic operations platform for AI-native enterprise workflows |
 | **[ai-native-capabilities](https://github.com/rrodenas3/ai-native-capabilities)** | Five spec-first agentic capability patterns: decision intelligence, SASE, commerce, supply chain, compliance |
+| **[dark-factory-os](https://github.com/rrodenas3/dark-factory-os)** | Governed agentic operations platform for AI-native enterprise workflows |
+| **[workforce-autonomy-control-plane](https://github.com/rrodenas3/workforce-autonomy-control-plane)** | Agent identity, policy, audit, and approval control plane for regulated operations |
 | **[virtual_sales_assistant](https://github.com/rrodenas3/virtual_sales_assistant)** | Commerce VSA workbench and precursor to the PHANTOM governed field-sales agent |
-| **[workforce-autonomy-control-plane](https://github.com/rrodenas3/workforce-autonomy-control-plane)** | Control-plane architecture for regulated workforce operations |
 
-## Positioning Map
-
-| Phrase | What I mean |
-|---|---|
-| **AI-native transformation leader** | I redesign workflows, operating models, and technical systems around AI agents rather than adding AI as a surface feature |
-| **Agentic commerce specialist** | I focus on the shift from human-click e-commerce to AI-agent-mediated discovery, decisioning, ordering, and operations |
-| **Agentic engineer / AI engineer** | I build multi-step agent workflows with tools, memory, policies, evals, and human checkpoints |
-| **Governance-first builder** | Every serious agent needs identity, permissions, audit trails, approval gates, cost boundaries, and revocation |
-
-## Current Flagship
+## Current Direction
 
 **HARNEXA / PHANTOM VSA**<br>
 Governed agentic-commerce deployment for European e-commerce, retail, and CPG operators.
@@ -52,7 +43,7 @@ PHANTOM turns account context, SKU velocity, stock signals, and promo compliance
 | Audit completeness | Every run can be reconstructed |
 | Human boundary | Financial/destructive actions require explicit ownership |
 
-## Technical Range
+## Technical Surface
 
 Python · FastAPI · LangGraph · MCP · OPA · Temporal · PostgreSQL · pgvector · Docker · GitHub Actions · React · Next.js · Vercel · Azure AI Foundry · AWS Bedrock AgentCore
 

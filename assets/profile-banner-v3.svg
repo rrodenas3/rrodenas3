@@ -1,0 +1,30 @@
+<svg width="1200" height="230" viewBox="0 0 1200 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Raul Rausell - AI-native transformation for agentic commerce</title>
+  <desc id="desc">A concise editorial GitHub profile banner for governed AI-agent systems and agentic commerce.</desc>
+
+  <rect width="1200" height="230" fill="#EEEADF"/>
+  <rect x="0" y="0" width="286" height="230" fill="#15130F"/>
+
+  <rect x="38" y="38" width="58" height="58" stroke="#C47742" stroke-width="2"/>
+  <path d="M54 81V53H63V64H76V53H85V81H76V72H63V81H54Z" fill="#EEEADF"/>
+
+  <text x="38" y="136" fill="#EEEADF" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700">Raul Rausell</text>
+  <text x="40" y="170" fill="#C47742" font-family="Arial, sans-serif" font-size="13" letter-spacing="1.8">AI-NATIVE TRANSFORMATION</text>
+  <text x="40" y="198" fill="#CFC6B6" font-family="Arial, sans-serif" font-size="15">FT1000 commerce founder</text>
+
+  <line x1="336" y1="42" x2="336" y2="188" stroke="#C47742" stroke-width="1.5"/>
+
+  <text x="380" y="78" fill="#15130F" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">Governed agents</text>
+  <text x="380" y="122" fill="#15130F" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">for agentic commerce.</text>
+  <text x="382" y="160" fill="#5F554B" font-family="Arial, sans-serif" font-size="18">Agentic engineer · AI engineer · commerce operator</text>
+  <text x="382" y="190" fill="#8B5A38" font-family="Arial, sans-serif" font-size="13" letter-spacing="1.4">IDENTITY · AUDIT · APPROVAL · EXECUTION</text>
+
+  <g transform="translate(926 55)">
+    <rect x="0" y="0" width="186" height="120" fill="none" stroke="#C47742" stroke-width="2"/>
+    <path d="M30 34H114" stroke="#15130F" stroke-width="2"/>
+    <path d="M30 60H154" stroke="#15130F" stroke-width="2"/>
+    <path d="M30 86H94" stroke="#15130F" stroke-width="2"/>
+    <circle cx="142" cy="34" r="6" fill="#C47742"/>
+    <path d="M138 86L154 86L154 70" stroke="#C47742" stroke-width="2"/>
+  </g>
+</svg>
