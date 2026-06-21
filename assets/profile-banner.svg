@@ -14,11 +14,11 @@
   <text x="64" y="254" fill="#EEEADF" font-family="Arial, sans-serif" font-size="19">Agentic engineer · AI engineer</text>
   <text x="64" y="282" fill="#CFC6B6" font-family="Arial, sans-serif" font-size="18">E-commerce specialist · FT1000 founder</text>
 
-  <text x="548" y="100" fill="#1F1B15" font-family="Georgia, 'Times New Roman', serif" font-size="59" font-weight="700">Agentic commerce, governed.</text>
-  <text x="551" y="145" fill="#5F554B" font-family="Arial, sans-serif" font-size="22">Commerce infrastructure for AI agents</text>
-  <text x="551" y="176" fill="#8B5A38" font-family="Arial, sans-serif" font-size="18" letter-spacing="1.2">DATA · APIs · IDENTITY · AUDIT · APPROVAL</text>
+  <text x="548" y="91" fill="#1F1B15" font-family="Georgia, 'Times New Roman', serif" font-size="56" font-weight="700">Agentic commerce</text>
+  <text x="550" y="143" fill="#8B5A38" font-family="Georgia, 'Times New Roman', serif" font-size="45" font-weight="700">governed by design.</text>
+  <text x="552" y="180" fill="#5F554B" font-family="Arial, sans-serif" font-size="21">AI-native transformation · agentic engineering · commerce systems</text>
 
-  <g transform="translate(552 214)" font-family="Arial, sans-serif" font-size="17" font-weight="700">
+  <g transform="translate(552 226)" font-family="Arial, sans-serif" font-size="17" font-weight="700">
     <rect x="0" y="0" width="158" height="46" fill="#15130F"/>
     <text x="32" y="30" fill="#EEEADF">HARNEXA</text>
     <rect x="177" y="0" width="154" height="46" fill="none" stroke="#C47742"/>
@@ -27,10 +27,9 @@
     <text x="391" y="30" fill="#1F1B15">AgentOps</text>
   </g>
 
-  <path d="M924 46C1039 46 1127 96 1127 170C1127 244 1039 294 924 294C809 294 721 244 721 170C721 96 809 46 924 46Z" stroke="#C47742" stroke-width="2" opacity="0.72"/>
-  <path d="M812 170H885" stroke="#D1C4B2" stroke-width="1.5"/>
-  <circle cx="924" cy="170" r="9" fill="#C47742"/>
-  <path d="M1008 170H1202" stroke="#C47742" stroke-width="2"/>
-  <path d="M1148 154L1202 170L1148 186" stroke="#C47742" stroke-width="2"/>
-  <text x="810" y="324" fill="#8B5A38" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">CATALOG · INVENTORY · ORDERS · GOVERNANCE</text>
+  <path d="M940 58C1049 58 1132 104 1132 172C1132 240 1049 286 940 286C831 286 748 240 748 172C748 104 831 58 940 58Z" stroke="#C47742" stroke-width="2" opacity="0.58"/>
+  <path d="M1024 172H1194" stroke="#C47742" stroke-width="2"/>
+  <path d="M1144 156L1194 172L1144 188" stroke="#C47742" stroke-width="2"/>
+  <circle cx="940" cy="172" r="8" fill="#C47742"/>
+  <text x="826" y="318" fill="#8B5A38" font-family="Arial, sans-serif" font-size="14" letter-spacing="2">CATALOG · INVENTORY · ORDERS · GOVERNANCE</text>
 </svg>

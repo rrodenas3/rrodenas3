@@ -2,9 +2,9 @@
   <img src="./assets/profile-banner.svg" alt="Raul Rausell - AI-native transformation for agentic commerce" />
 </p>
 
-I am an **AI-native transformation leader** building governed systems for **agentic commerce**.
+**AI-native transformation leader building governed systems for agentic commerce.**
 
-My background combines **agentic engineering, AI engineering, and e-commerce operating depth**. For 10 years I built and ran a FT1000-recognised digital commerce venture: marketplaces, checkout/payment flows, inventory logic, analytics, forecasting, recommendations, and AI-enabled support. Now I use that operating background to build commerce agents that can safely touch real workflows.
+I connect three backgrounds that rarely meet in one builder: **agentic engineering**, **AI engineering**, and **10 years operating a FT1000-recognised e-commerce company**. That means I do not treat agentic commerce as a chatbot trend; I treat it as a new operating layer for catalogues, inventory, payments, approvals, audit, and decision ownership.
 
 <p align="center">
   <a href="https://harnexa.ai"><strong>HARNEXA AI</strong></a>
@@ -23,7 +23,7 @@ My background combines **agentic engineering, AI engineering, and e-commerce ope
 | **[virtual_sales_assistant](https://github.com/rrodenas3/virtual_sales_assistant)** | Commerce VSA workbench and precursor to the PHANTOM governed field-sales agent |
 | **[workforce-autonomy-control-plane](https://github.com/rrodenas3/workforce-autonomy-control-plane)** | Control-plane architecture for regulated workforce operations |
 
-## Positioning
+## Positioning Map
 
 | Phrase | What I mean |
 |---|---|
